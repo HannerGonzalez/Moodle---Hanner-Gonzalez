@@ -77,3 +77,19 @@ poner imagenes
 poner imagen
 <img src=/subir la imagen.png/>
 
+## Cuestionario
+
+Cree un cuestionario en categorias diferentes, también cree una copia de seguridad de los cursos y le envie el archivo a un compañero
+
+poner imagen
+<img src=/subir la imagen.png/>
+
+## Seguridad
+
+Explicar porque la decidi esa IP y le añadi una politica de seguridad basica para poder brindarle más seguridad al sitio.
+
+
+
+poner imagen
+<img src=/subir la imagen.png/>
+
