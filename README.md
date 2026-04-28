@@ -82,6 +82,12 @@ Cree un cuestionario en categorias diferentes, también cree una copia de seguri
 
 <img src=/Cuestionario.png/>
 
+## Importación Y Exportación De Cursos
+
+En este apartado cree una copiad de seguridad del curso para poder compartirlo con un amigo y que pueda tener tu curso en su moodle
+
+<img src=/Calificaciones.png/>
+
 ## Seguridad
 
 Explicar porque la decidi esa IP y le añadi una politica de seguridad basica para poder brindarle más seguridad al sitio.
