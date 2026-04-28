@@ -15,7 +15,8 @@ poner imagen
 
 En este apartado me encargue de cambiar ciertas cosas dentro de la configuración del moodle. Por ejemplo: La ubicación, Agregar más idiomas y cambiar ciertas opciones de seguridad, abajo dejare las imagenes de la configuración que cambie,
 
-poner imagenes
+#### Ubicación
+
 <img src=/subir la imagen.png/>
 
 ## Creación De Cursos
