@@ -74,7 +74,7 @@ poner imagenes
 
 #### Insignia
 
-<img src=/Insignia.png.png/>
+<img src=/Insignia.png/>
 
 ## Cuestionario
 
