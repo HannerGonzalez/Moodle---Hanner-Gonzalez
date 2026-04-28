@@ -70,8 +70,7 @@ poner imagenes
 
 Ya en estos ultimos apartados me encargue de la comprobación del metodo de calificaciones, completando las tareas anteriormente subidas y calificandolas mediante el moodle y también la creación de una insignia para poder brindarsela a un alumno en cuestión.
 
-poner imagenes
-<img src=/subir la imagen.png/>
+<img src=/Calificaciones.png/>
 
 #### Insignia
 
