@@ -81,8 +81,7 @@ poner imagenes
 
 Cree un cuestionario en categorias diferentes, también cree una copia de seguridad de los cursos y le envie el archivo a un compañero
 
-poner imagen
-<img src=/subir la imagen.png/>
+<img src=/Cuestionario.png/>
 
 ## Seguridad
 
