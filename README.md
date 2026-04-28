@@ -9,7 +9,7 @@ En esta práctica nos encargamos de realizar un moodle y configurar tanto su con
 Aqui me encargue de la personalizar el perfil de dicho moodle, quitando ciertas cosas que habia puesto en su proceso de instalación.
 
 poner imagen
-<img src=/subir la imagen.png/>
+<img src=/PerfilMoodle.png/>
 
 ## Configuración Del Sitio
 
