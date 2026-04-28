@@ -86,7 +86,7 @@ Cree un cuestionario en categorias diferentes, también cree una copia de seguri
 
 En este apartado cree una copiad de seguridad del curso para poder compartirlo con un amigo y que pueda tener tu curso en su moodle
 
-<img src=/CopiaDeSeguridad.png./>
+<img src=/CopiaDeSeguridad.png/>
 
 ## Seguridad
 
