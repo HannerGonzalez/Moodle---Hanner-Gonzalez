@@ -49,8 +49,7 @@ poner imagen
 
 #### Logotipo
 
-poner imagen
-<img src=/subir la imagen.png/>
+<img src=/Logotipo.Png/>
 
 ## Creación De Contenido Y Actividades
 
