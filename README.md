@@ -44,8 +44,7 @@ poner imagenes
 
 En este apartado me encargue de instalar un tema y un logotipo distinto al que trae por defecto el moodle.
 
-poner imagen
-<img src=/subir la imagen.png/>
+<img src=/Tema.png/>
 
 #### Logotipo
 
