@@ -31,8 +31,7 @@ En este apartado cree 2 cursos los cuáles tienen como nombre A y B, los cuales 
 
 Aqui como su nombre lo dice me dedique a la creación manual y excesiva de usuarios dentro del moodle para despúes brindarle funciones importantes a ciertos usuarios.
 
-poner imagenes
-<img src=/subir la imagen.png/>
+<img src=/Usuarios.Png/>
 
 ## Matriculación De Usuarios A Los Cursos
 
