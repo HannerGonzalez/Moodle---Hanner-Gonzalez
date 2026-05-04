@@ -53,7 +53,6 @@ En este apartado me encargue de instalar un tema y un logotipo distinto al que t
 
 Aqui me encargue de asignar rangos a los usuarios antes creados y de añadir contenido al curso A y importar el curso B 
 
-poner imagenes
 <img src=/CreaciónDeTareas.Png/>
 
 ## Calificaciones Y Insignias
