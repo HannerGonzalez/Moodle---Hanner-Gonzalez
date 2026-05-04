@@ -17,7 +17,7 @@ En este apartado me encargue de cambiar ciertas cosas dentro de la configuració
 
 #### Ubicación
 
-<img src=/Ubicación.Png/>
+<img src=/Ubicación.png/>
 
 ## Creación De Cursos
 
