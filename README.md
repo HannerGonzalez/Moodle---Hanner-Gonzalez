@@ -37,8 +37,7 @@ Aqui como su nombre lo dice me dedique a la creación manual y excesiva de usuar
 
 Aqui implemente diferentes metodos de inscripción a los cursos y al final hice la verificacióń de que todo estuviera tal cuál al anunciado de clase.
 
-poner imagenes
-<img src=/subir la imagen.png/>
+<img src=/Matriculación De Usuarios.png/>
 
 ## Personalización Del Sitio
 
