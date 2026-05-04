@@ -23,7 +23,7 @@ En este apartado me encargue de cambiar ciertas cosas dentro de la configuració
 
 En este apartado cree 2 cursos los cuáles tienen como nombre A y B, los cuales despúes tuve que crear temas y subir una tarea en dichas clases.
 
-#### Curso A
+#### Cursos
 
 <img src=/Cursos.png/>
 
