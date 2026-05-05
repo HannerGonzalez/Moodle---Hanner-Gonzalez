@@ -79,10 +79,5 @@ En este apartado cree una copiad de seguridad del curso para poder compartirlo c
 
 ## Seguridad
 
-Explicar porque la decidi esa IP y le añadi una politica de seguridad basica para poder brindarle más seguridad al sitio.
-
-
-
-poner imagen
 <img src=/subir la imagen.png/>
 
