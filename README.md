@@ -85,5 +85,5 @@ En este apartado cree una copiad de seguridad del curso para poder compartirlo c
 
 ### Politicas De Seguridad
 
-<img src=/Politicas De Seguridad.Png/>
+<img src=/PoliticasDeSeguridad.Png/>
 
