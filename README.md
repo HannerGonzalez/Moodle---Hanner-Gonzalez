@@ -79,5 +79,11 @@ En este apartado cree una copiad de seguridad del curso para poder compartirlo c
 
 ## Seguridad
 
+### Ips Baneadas 
+
+<img src=/Ips.Png/>
+
+### Politicas De Seguridad
+
 <img src=/subir la imagen.png/>
 
