@@ -41,7 +41,7 @@ Aqui implemente diferentes metodos de inscripción a los cursos y al final hice 
 <img src=/CursoA.png/>
 
 #### Curso B
-<img src=/CursoA.png/>
+<img src=/CursoB.png/>
 
 ## Personalización Del Sitio
 
